@@ -37,8 +37,7 @@ This web application was created and deployed to serve as a personal portfolio, 
   ![Contact US](webapp/web-images/contactus.png)
 
 ## Deployment
-
-The portfolio is inspired by and can be viewed at [ soon update to github ]).
+The portfolio is inspired by and can be viewed at [ soon updated to github ]).
 
 ---
 
